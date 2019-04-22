@@ -1,4 +1,4 @@
-# movie-data
+# Movie Chart
 
 ## Project setup
 ```
